@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "no:zinc_dust",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:icon": "no:zinc_dust",
+      "minecraft:render_offsets": "apple",
+      "minecraft:hover_text_color": "white"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "no:tin_ingot",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:icon": "no:tin_ingot",
+      "minecraft:render_offsets": "apple",
+      "minecraft:hover_text_color": "white"
+    }
+  }
+}
