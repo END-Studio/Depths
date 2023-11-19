@@ -1,0 +1,54 @@
+{
+  "resources_pack_name": "tut",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "no:brass_ingot": {
+      "textures": "textures/items/brass_ingot"
+    },
+    "no:titan_ingot": {
+      "textures": "textures/items/titan_ingot"
+    },
+    "no:titan_dust": {
+      "textures": "textures/items/titan_dust"
+    },
+    "no:brass_dust": {
+      "textures": "textures/items/brass_dust"
+    },
+    "no:copper_dust": {
+      "textures": "textures/items/copper_dust"
+    },
+    "no:iron_dust": {
+      "textures": "textures/items/iron_dust"
+    },
+    "no:lapis_dust": {
+      "textures": "textures/items/lapis_dust"
+    },
+    "no:gold_dust": {
+      "textures": "textures/items/gold_dust"
+    },
+    "no:diamond_dust": {
+      "textures": "textures/items/diamond_dust"
+    },
+    "no:bronze_ingot": {
+      "textures": "textures/items/bronze_ingot"
+    },
+    "no:bronze_dust": {
+      "textures": "textures/items/bronze_dust"
+    },
+    "no:tin_ingot": {
+      "textures": "textures/items/tin_ingot"
+    },
+    "no:tin_dust": {
+      "textures": "textures/items/tin_dust"
+    },
+    "no:zinc_ingot": {
+      "textures": "textures/items/zinc_ingot"
+    },
+    "no:zinc_dust": {
+      "textures": "textures/items/zinc_dust"
+    },
+    "no:tin_pickaxe": {
+      "textures": "textures/items/tin_pickaxe"
+    }
+  }
+}
