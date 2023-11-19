@@ -1,0 +1,51 @@
+{
+  "format_version": [1, 1, 0],
+  "no:brass_block": {
+    "textures": "no:brass_block",
+    "sound": "stone"
+  },
+  "no:bronze_block": {
+    "textures": "no:bronze_block",
+    "sound": "stone"
+  },
+  "no:titan_block": {
+    "textures": "no:titan_block",
+    "sound": "stone"
+  },
+  "no:tin_block": {
+    "textures": "no:tin_block",
+    "sound": "stone"
+  },
+  "no:zinc_block": {
+    "textures": "no:zinc_block",
+    "sound": "stone"
+  },
+  "no:tin_ore": {
+    "textures": "no:tin_ore",
+    "sound": "stone"
+  },
+  "no:zinc_ore": {
+    "textures": "no:zinc_ore",
+    "sound": "stone"
+  },
+  "no:brass_ore": {
+    "textures": {
+      "up": "no:brass_ore_top",
+      "down": "no:brass_ore_top",
+      "side": "no:brass_ore_side"
+    },
+    "sound": "basalt"
+  },
+  "no:bronze_ore": {
+    "textures": {
+      "up": "no:bronze_ore_top",
+      "down": "no:bronze_ore_top",
+      "side": "no:bronze_ore_side"
+    },
+    "sound": "basalt"
+  },
+  "no:titan_ore_deepslate": {
+    "textures": "no:titan_ore_deepslate",
+    "sound": "deepslate"
+  }
+}
