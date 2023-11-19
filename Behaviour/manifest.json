@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "New Ores | Behaviour",
+    "description": "pack.description",
+    "uuid": "dcb1966a-3b5c-4804-9120-dbc9ab3c1038",
+    "version": [0, 2, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "5844adf4-a39d-4f44-aad5-8f5f9b1e929a",
+      "version": [0, 2, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Murzik179"],
+    "license": "GNU-3.0",
+    "url": "https://github.com/Murzik179/NewOres"
+  }
+}
