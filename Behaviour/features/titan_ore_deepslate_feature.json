@@ -1,0 +1,15 @@
+{
+  "format_version": "1.17.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "no:titan_ore_deepslate_feature"
+    },
+    "count": 4,
+    "replace_rules": [
+      {
+        "places_block": "no:titan_ore_deepslate",
+        "may_replace": ["minecraft:deepslate"]
+      }
+    ]
+  }
+}
