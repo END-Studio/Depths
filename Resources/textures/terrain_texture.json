@@ -1,0 +1,44 @@
+{
+  "resources_pack_name": "tut",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "no:brass_block": {
+      "textures": "textures/blocks/brass_block"
+    },
+    "no:bronze_block": {
+      "textures": "textures/blocks/bronze_block"
+    },
+    "no:tin_block": {
+      "textures": "textures/blocks/tin_block"
+    },
+    "no:titan_block": {
+      "textures": "textures/blocks/titan_block"
+    },
+    "no:zinc_block": {
+      "textures": "textures/blocks/zinc_block"
+    },
+    "no:tin_ore": {
+      "textures": "textures/blocks/tin_ore"
+    },
+    "no:zinc_ore": {
+      "textures": "textures/blocks/zinc_ore"
+    },
+    "no:brass_ore_side": {
+      "textures": "textures/blocks/brass_ore_side"
+    },
+    "no:brass_ore_top": {
+      "textures": "textures/blocks/brass_ore_top"
+    },
+    "no:bronze_ore_side": {
+      "textures": "textures/blocks/bronze_ore_side"
+    },
+    "no:bronze_ore_top": {
+      "textures": "textures/blocks/bronze_ore_top"
+    },
+    "no:titan_ore_deepslate": {
+      "textures": "textures/blocks/titan_ore_deepslate"
+    }
+  }
+}
