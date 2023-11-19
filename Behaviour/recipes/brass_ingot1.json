@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "no:brass_ingot1"
+    },
+    "tags": ["crafting_table", "altar"],
+    
+    "pattern": [
+      "X"
+    ],
+    "key": {
+      "X": "no:brass_block"
+    },
+    "result": {
+      "item": "no:brass_ingot",
+      "count": 9
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "no:bronze_ingot1"
+    },
+    "tags": ["crafting_table", "altar"],
+    
+    "pattern": [
+      "X"
+    ],
+    "key": {
+      "X": "no:bronze_block"
+    },
+    "result": {
+      "item": "no:bronze_ingot",
+      "count": 9
+    }
+  }
+}

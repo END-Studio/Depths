@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "no:zinc_pickaxe"
+    },
+    "tags": ["crafting_table"],
+    
+    "pattern": [
+      "XXX",
+      " Y ",
+      " Y "
+    ],
+    "key": {
+      "X": "no:zinc_ingot",
+      "Y": "minecraft:stick"
+    },
+    "result": "no:zinc_pickaxe"
+  }
+}

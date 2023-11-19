@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "no:tin_hoe"
+    },
+    "tags": ["crafting_table"],
+    
+    "pattern": [
+      "XX",
+      "Y ",
+      "Y "
+    ],
+    "key": {
+      "X": "no:tin_ingot",
+      "Y": "minecraft:stick"
+    },
+    "result": "no:tin_hoe"
+  }
+}

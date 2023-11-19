@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "no:titan_axe"
+    },
+    "tags": ["crafting_table"],
+    
+    "pattern": [
+      "XX",
+      "YX",
+      "Y "
+    ],
+    "key": {
+      "X": "no:titan_ingot",
+      "Y": "minecraft:stick"
+    },
+    "result": "no:titan_axe"
+  }
+}

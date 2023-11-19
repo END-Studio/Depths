@@ -1,0 +1,14 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "no:tin_ingot"
+    },
+    "tags": ["furnace", "blast_furnace"],
+    
+    "input": "no:tin_ore",
+    "output": "no:tin_ingot"
+  }
+  }
+}
