@@ -1,0 +1,20 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "no:brass_block"
+    },
+    "tags": ["crafting_table"],
+    
+    "pattern": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": "no:brass_ingot"
+    },
+    "result": "no:brass_block"
+  }
+}
