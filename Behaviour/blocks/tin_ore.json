@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "no:tin_ore",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "minecraft:destroy_time": 5,
+    "minecraft:explosion_resistance": 6,
+    "minecraft:friction": 0.6,
+    "minecraft:frammable": {
+      "flame_odds": 0,
+      "burn_odds": 0
+    },
+    "minecraft:map_color": "BAC4C8FF",
+    "minecraft:block_light_absorpion": 0,
+    "minecraft:block_light_emission": 0
+  }
+}
