@@ -1,7 +1,7 @@
-NewOres
+Depths
 ===========
 
-Addon add new ores, tools, armor and blocks in Minecraft world.
+Depths of Minecraft world are unknow and dangerous. Can you research their all?
 
 Licensing
 ===========
